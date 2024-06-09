@@ -66,8 +66,8 @@ For all charming widgets, please [Check it out 👉]([ https://github.com/DeenRa
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|Visit our website</a >|
 
-<h1 align="center">Hi 👋<a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-S Its Deen Ramah ventures </a></h1>
+<h1 align="center">Hi 👋<a href="[https://100rabhcsmc.github.io/Me.io](https://github.com/DeenRamah)/" target="blank">
+Its Deen Ramah ventures </a></h1>
 <h3 align="center"> Build it from scratch &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
