@@ -7,23 +7,23 @@
 </div>
 
 <h4 align="center">
-  <b><a href= https://github.com/DeenRamah">Data Explorer</a></b>
+  <b><a https://github.com/DeenRamah">Data Explorer</a></b>
   •
-  <b><a href=" https://github.com/DeenRamah">Repo Rankings</a></b>
+  <b><a https://github.com/DeenRamah">Repo Rankings</a></b>
   •
-  <b><a href=" https://github.com/DeenRamah">Developer Analytics</a></b>
+  <b><a https://github.com/DeenRamah">Developer Analytics</a></b>
   •
-  <a href=" https://github.com/DeenRamah">Repo Analytics</a>
+  <a https://github.com/DeenRamah">Repo Analytics</a>
   •
-  <a href=" https://github.com/DeenRamah">Collections</a>
+  <a https://github.com/DeenRamah">Collections</a>
   •
-  <a href=" https://github.com/DeenRamah">Workshop</a>
+  <a https://github.com/DeenRamah">Workshop</a>
   •
-  <a href=" https://github.com/DeenRamah">Blog</a>
+  <a https://github.com/DeenRamah">Blog</a>
   •
-  <a href=" (https://github.com/DeenRamah)">API</a>
+  <a https://github.com/DeenRamah">API</a>
   •
-  <a href=" https://github.com/DeenRamah">Twitter</a>
+  <a https://github.com/DeenRamah">Twitter</a>
 </h3>
 
 ## Introduction
