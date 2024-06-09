@@ -66,9 +66,9 @@ For all charming widgets, please [Check it out 👉]([ https://github.com/DeenRa
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|Visit our website</a >|
 
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+<h1 align="center">Hi 👋<a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+S Its Deen Ramah ventures </a></h1>
+<h3 align="center"> Build it from scratch &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -78,7 +78,7 @@ Saurabh</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 We aare currently working on <a href="https://phoenix.tech/griffyn/" target="blank">Deen Ramah Ventures </a>
+- 🔭 We aare currently working on<a> Deen Ramah Ventures </a>
 
 - 🌱 We currently Working on both Web and Mobile projects
 
@@ -86,7 +86,7 @@ Saurabh</a></h1>
 
 
 
-- 📝 I regularly write articles 
+- 📝 We regularly write articles 
 
 - 💬 Ask us about **Reactjs ,NextJs, Vuejs,Typescript React-Native**
 
