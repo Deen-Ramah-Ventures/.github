@@ -41,7 +41,7 @@ Its Deen Ramah ventures </a></h1>
 
 
 
-<td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
+<td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif">
 
 
 - 🔭 We aare currently working on<a> Deen Ramah Ventures </a>
@@ -75,7 +75,7 @@ Its Deen Ramah ventures </a></h1>
 
 
 
-
+</td>
 
 **Languages and Tools:**
 
